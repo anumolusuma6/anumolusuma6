@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anumolusuma6
-- 👀 I’m interested in data engineering
-- 🌱 I’m currently learning fundamentals
+- 👀 I’m interested in working on data
 - 💞️ I’m looking for collaborative learning 
 
 
