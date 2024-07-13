@@ -26,7 +26,7 @@ I'm a dedicated data analyst with a passion for uncovering insights and making d
 <br>
 -📊 Interests: leveraging data for business insights and strategic decision-making.
 <br>
--🛠️ Languages and Tools :
+-🛠️ Languages and Tools:  Python, R, SAS, SQL, Excel, Power BI, Tableau, Looker, Jupyter Notebook, Pandas, NumPy, Scikit-learn, Apache Hadoop, Apache Spark, Apache Hive, Apache Kafka, Apache Storm, MongoDB, Cassandra, Elasticsearch, Neo4j, Microsoft Azure, Google BigQuery
 
 
 
