@@ -22,6 +22,18 @@ I'm a dedicated data analyst with a passion for uncovering insights and making d
   </div>
   
 ### About Me:
--🔭 I’m currently working on: I'm engaged in advanced data analytics and business intelligence projects.
+-🔭 I'm currently engaged in advanced data analytics and business intelligence projects.
 <br>
 -📊 Interests: leveraging data for business insights and strategic decision-making.
+<br>
+-:hammer_and_wrench: Languages and Tools :
+
+
+
+
+
+
+
+
+
+
