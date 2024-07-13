@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 ### 🛠️ Skills: Python, SQL, R, Tableau, Power BI, Excel, Looker
 ### 📊 Interests: Data visualization, predictive modeling, A/B testing, business intelligence
 ### 📫 How to reach me: 
-https://img.shields.io/badge/LinkedIn-blue
+[Label-Color
+https://img.shields.io/badge/LinkedIn-blue](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+)
 ### 
 ### 
 
