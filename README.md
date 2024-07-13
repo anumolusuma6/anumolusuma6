@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Data Analyst | Storyteller with Data | Python Enthusiast
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNldTkycTFnbWZjZHhxODV0dWpybnR0aHh5MGlycDN2bjA2aHA1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WVNnyv96C3iltOFutg/giphy.gif" width="500"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhjcndicDRjMmw5dzNmcmwxZnJza3I0eWhuNXNhOWYxdm96czI1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="500"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/suma-anumolu-345a52163/">
