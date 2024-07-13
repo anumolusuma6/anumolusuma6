@@ -19,6 +19,7 @@ I'm a dedicated data analyst with a passion for uncovering insights and making d
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
   </div>
+  </div>
   
 ### About Me:
 ### 🔭 I’m currently working on: 
