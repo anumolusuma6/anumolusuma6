@@ -25,7 +25,8 @@ Here are some ideas to get you started:
   <a href="mailto:anumolusuma@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-</div>
+<img src="https://komarev.com/ghpvc/?username=https://github.com/anumolusuma6/&style=flat-square&color=blue" alt=""/>
+
 
 
 ### About Me:
