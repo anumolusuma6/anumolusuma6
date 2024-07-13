@@ -22,9 +22,9 @@ I'm a dedicated data analyst with a passion for uncovering insights and making d
   </div>
   
 ### About Me:
-### 🔭 I’m currently working on: 
-### 📊 Interests: Data visualization, predictive modeling, A/B testing, business intelligence
-### :hammer_and_wrench: Languages and Tools :
+-🔭 I’m currently working on: 
+- 📊 Interests: Data visualization, predictive modeling, A/B testing, business intelligence
+-:hammer_and_wrench: Languages and Tools :
 - <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
