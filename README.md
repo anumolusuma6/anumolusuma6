@@ -26,7 +26,7 @@ I'm a dedicated data analyst with a passion for uncovering insights and making d
 <br>
 -📊 Interests: leveraging data for business insights and strategic decision-making.
 <br>
-- :hammer_and_wrench: Languages and Tools :
+-🛠️ Languages and Tools :
 
 
 
