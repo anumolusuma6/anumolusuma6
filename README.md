@@ -16,12 +16,18 @@ Here are some ideas to get you started:
 -->
 ## Data Analyst | Storyteller with Data | Python Enthusiast
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 
 ### About Me:
 ### 🌱 Learning: Deepening my knowledge in advanced analytics and machine learning
 ### 🛠️ Skills: Python, SQL, R, Tableau, Power BI, Excel, Looker
 ### 📊 Interests: Data visualization, predictive modeling, A/B testing, business intelligence
+### 📫 How to reach me: 
+### 
+### 
 
 
 <!---
