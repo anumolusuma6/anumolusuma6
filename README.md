@@ -3,8 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-## Welcome to My GitHub Profile! I am Suma Anumolu
+## Welcome to My GitHub Profile! 👋 I am Suma Anumolu
 I'm a passionate data analyst with a knack for uncovering insights and telling compelling stories with data. Here, you'll find a collection of projects that showcase my skills in data analysis, visualization, and machine learning. I love diving into data, finding patterns, and turning numbers into actionable insights.
+
 
 <!--
 **anumolusuma6/anumolusuma6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
