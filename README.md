@@ -7,21 +7,6 @@
 ## Welcome to My GitHub Profile! 
 I'm a dedicated data analyst with a passion for uncovering insights and making data-driven decisions. On my profile, you'll find a variety of projects that demonstrate my expertise in data analysis, from cleaning and transforming raw data to creating insightful visualizations and reports. I love exploring datasets, identifying trends, and turning complex data into clear, actionable insights. Dive in to see how I leverage data to solve problems and tell meaningful stories.
 
-
-<!--
-**anumolusuma6/anumolusuma6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## Data Analyst | Storyteller with Data | Python Enthusiast
 
 <div id="header" align="center">
@@ -35,7 +20,6 @@ Here are some ideas to get you started:
     </a>
   </div>
   
-
 ### About Me:
 ### 🔭 I’m currently working on: 
 ### 📊 Interests: Data visualization, predictive modeling, A/B testing, business intelligence
