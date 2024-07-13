@@ -19,13 +19,6 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNldTkycTFnbWZjZHhxODV0dWpybnR0aHh5MGlycDN2bjA2aHA1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WVNnyv96C3iltOFutg/giphy.gif" width="500"/>
 </div>
-
-
-### About Me:
-### 🌱 Learning: Deepening my knowledge in advanced analytics and machine learning
-### 🛠️ Skills: Python, SQL, R, Tableau, Power BI, Excel, Looker
-### 📊 Interests: Data visualization, predictive modeling, A/B testing, business intelligence
-### 📫 How to reach me: 
 <div id="badges">
   <a href="https://www.linkedin.com/in/suma-anumolu-345a52163/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -35,8 +28,13 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-### 
-### 
+
+### About Me:
+- 🔭 I’m currently working on: 
+- 🛠️ Skills: Python, SQL, R, Power BI Tableau, Power BI, Excel, Looker
+- 📊 Interests: Data visualization, predictive modeling, A/B testing, business intelligence
+
+
 
 
 <!---
