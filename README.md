@@ -26,7 +26,16 @@ I'm a dedicated data analyst with a passion for uncovering insights and making d
 <br>
 -📊 Interests: leveraging data for business insights and strategic decision-making.
 <br>
--🛠️ Languages and Tools:  Python, R, SAS, SQL, Excel, Power BI, Tableau, Looker, Jupyter Notebook, Pandas, NumPy, Scikit-learn, Apache Hadoop, Apache Spark, Apache Hive, Apache Kafka, Apache Storm, MongoDB, Cassandra, Elasticsearch, Neo4j, Microsoft Azure, Google BigQuery
+-🛠️ Languages and Tools: Python, R, SAS, SQL, Excel, Power BI, Tableau, Looker, Apache Spark
+
+  ---
+
+### :fire: My GitHub Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anumolusuma6&theme=dark&background=000000)](https://git.io/streak-stats)      
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anumolusuma6&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
