@@ -1,7 +1,7 @@
 <h1>
   Hey there 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  , I am Suma Anumolu
+  , I'm Suma Anumolu
 </h1>
 
 ## Welcome to My GitHub Profile! 
