@@ -4,7 +4,7 @@
   , I am Suma Anumolu
 </h1>
 
-## Welcome to My GitHub Profile! 👋
+## Welcome to My GitHub Profile! 
 I'm a passionate data analyst with a knack for uncovering insights and telling compelling stories with data. Here, you'll find a collection of projects that showcase my skills in data analysis, visualization, and machine learning. I love diving into data, finding patterns, and turning numbers into actionable insights.
 
 
