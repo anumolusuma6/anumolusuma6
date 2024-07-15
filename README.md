@@ -7,7 +7,7 @@
 ## Welcome to My GitHub Profile! 
 I'm a dedicated data analyst with a passion for uncovering insights and making data-driven decisions. On my profile, you'll find a variety of projects that demonstrate my expertise in data analysis, from cleaning and transforming raw data to creating insightful visualizations and reports. I love exploring datasets, identifying trends, and turning complex data into clear, actionable insights. Dive in to see how I leverage data to solve problems and tell meaningful stories.
 
-## Data Analyst | Storyteller with Data | Python Enthusiast
+## Data Analyst | Storyteller with Data 
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhjcndicDRjMmw5dzNmcmwxZnJza3I0eWhuNXNhOWYxdm96czI1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="500"/>
